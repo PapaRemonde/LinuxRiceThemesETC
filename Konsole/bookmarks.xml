@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+ <bookmark href="file:///home/monde">
+  <title>monde</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name=""/>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///run/media/monde/E/Games/Kingdom%20Come%20Deliverance">
+  <title>Kingdom Come Deliverance</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name=""/>
+   </metadata>
+  </info>
+ </bookmark>
+</xbel>
