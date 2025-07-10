@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=Bear with me
+ColorScheme=catppuccin-mocha
 
 [General]
 Name=Lemonde
